@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "Title": "ไม้",
+        "Description": "ไม้ผุ",
+        "Price": "300"
+    },
+    {
+        "id": 1,
+        "Title": "เหล็ก",
+        "Description": "เหล็กกล้า",
+        "Price": "1000000"
+    },
+    {
+        "id": 2,
+        "Title": "ปูน",
+        "Description": "ปูนเปียก",
+        "Price": "5000"
+    }
+]
